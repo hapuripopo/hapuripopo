@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hapuripopo
 - 👀 I’m interested in game and organaize ♡
 - 🌱 I’m currently learning Python, C# and Unity !
-- 📫 How to reach me is sending me email to sunmoon4228@gmail.com
+- 📫 How to reach me is sending email to sunmoon4228@gmail.com
 
 <!---
 hapuripopo/hapuripopo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
