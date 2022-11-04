@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hapuripopo
 - 👀 I’m interested in game and organaize ♡
-- 🌱 I’m currently learning Python, C# and Unity !
 - 📫 How to reach me is sending email to sunmoon4228@gmail.com
 
 <!---
