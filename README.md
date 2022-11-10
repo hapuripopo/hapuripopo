@@ -1,3 +1,5 @@
+<img src="./doxxaebi_bubble2.png" width=380px>
+
 As a developer,   
 I run a blog that shows the process of taking a step at a time.   
 
