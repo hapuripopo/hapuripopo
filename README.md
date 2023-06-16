@@ -1,14 +1,11 @@
 <div align="center">
-<img src="./doxxaebi_bubble2.png" width=380px>   
+   <img src="./doxxaebi_bubble2.png" width=380px>  
+     
+   FACE THE FEAR, BUILD THE FUTURE.  
+   
+   🦋
+ 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hapuripopo&layout=compact"><br><br>
 
-As a developer,   
-I run a blog that shows the process of taking a step at a time.   
-
-(●'◡'●)   
    
-   
-If you're curious,   
-Please follow the link below ♡   
-   
-<a href="https://hapuripopo.tistory.com/">https://hapuripopo.tistory.com/<a>
 </div>
